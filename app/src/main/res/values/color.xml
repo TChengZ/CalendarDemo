@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="calendar_text_color_weekday">#323232</color>
+    <color name="calendar_text_color_weekend">#b7b7b7</color>
+    <color name="list_item_select_true">#f7f7f7</color>
+    <color name="no_this_month_weekday">#cecece</color>
+    <color name="no_this_month_weekend">#fbb1a5</color>
+    <color name="this_month_weekday">#000000</color>
+    <color name="this_month_weekend">#f8634b</color>
+    <color name="calendar_title">#161616</color>
+    <color name="calendar_title_top">#d0d0d0</color>
+    <color name="calendar_title_bottom">#e7ebee</color>
+</resources>
